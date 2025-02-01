@@ -22,7 +22,7 @@ This project allows users to manage a cryptocurrency portfolio from the command 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/cot.git
+   git clone https://github.com/makalin/cot.git
    cd cot
    ```
 
